@@ -1,0 +1,35 @@
+.image img{
+ width: 400px;
+ height: 400px;
+ margin: 20px 0px;
+ border-bottom: 2px solid black;
+}
+input{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+
+.btn{
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    margin: 5px;
+    border-radius: 15px;
+}
+.slideshow{
+    position: absolute;
+    top: 10px;
+    left: 35%;
+    background-color: rgb(113, 136, 136);
+    padding: 15px;
+    border-radius: 25px;
+}
+.slideshow img{
+    width: 500px;
+    height: 500px;
+}
